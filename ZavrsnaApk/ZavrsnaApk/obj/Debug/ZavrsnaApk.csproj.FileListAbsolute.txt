@@ -1,0 +1,13 @@
+C:\Users\ucenik\Documents\Raul Dominik Holik\ZavrsnaApk\ZavrsnaApk\bin\Debug\ZavrsnaApk.exe.config
+C:\Users\ucenik\Documents\Raul Dominik Holik\ZavrsnaApk\ZavrsnaApk\bin\Debug\ZavrsnaApk.exe
+C:\Users\ucenik\Documents\Raul Dominik Holik\ZavrsnaApk\ZavrsnaApk\bin\Debug\ZavrsnaApk.pdb
+C:\Users\ucenik\Documents\Raul Dominik Holik\ZavrsnaApk\ZavrsnaApk\obj\Debug\ZavrsnaApk.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Raul Dominik Holik\ZavrsnaApk\ZavrsnaApk\obj\Debug\ZavrsnaApk.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Raul Dominik Holik\ZavrsnaApk\ZavrsnaApk\obj\Debug\ZavrsnaApk.Form1.resources
+C:\Users\ucenik\Documents\Raul Dominik Holik\ZavrsnaApk\ZavrsnaApk\obj\Debug\ZavrsnaApk.Properties.Resources.resources
+C:\Users\ucenik\Documents\Raul Dominik Holik\ZavrsnaApk\ZavrsnaApk\obj\Debug\ZavrsnaApk.csproj.GenerateResource.cache
+C:\Users\ucenik\Documents\Raul Dominik Holik\ZavrsnaApk\ZavrsnaApk\obj\Debug\ZavrsnaApk.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Raul Dominik Holik\ZavrsnaApk\ZavrsnaApk\obj\Debug\ZavrsnaApk.exe
+C:\Users\ucenik\Documents\Raul Dominik Holik\ZavrsnaApk\ZavrsnaApk\obj\Debug\ZavrsnaApk.pdb
+C:\Users\ucenik\Documents\Raul Dominik Holik\ZavrsnaApk\ZavrsnaApk\obj\Debug\ZavrsnaApk.FormIspit.resources
+C:\Users\ucenik\Documents\Raul Dominik Holik\ZavrsnaApk\ZavrsnaApk\obj\Debug\ZavrsnaApk.FormUpis.resources
